@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+body{
+    background-color: rgba(141, 190, 212, 0.85);
+    color: rgb(168, 66, 11);
+    font-size: 22px;
+    font-family: Papyrus;
+}
+
+#logo{
+    border-radius: 10px;
+    border: 2px solid rgb(81, 81, 81);
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    width: 350px;
+    height: 200px;
+}
